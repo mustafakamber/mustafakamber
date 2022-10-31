@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
 
 <h1 align="center">👋  Herzlich Willkommen!  👋 
-  I'm Mustafa :) </h1>
+  </h1>
 <h3 align="center">Android Kotlin Developer & UI Design Student from Turkey</h3>
 
 - 🔭 I’m currently student **at Inonu University**
