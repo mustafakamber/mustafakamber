@@ -19,7 +19,7 @@
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&locale=en&layout=compact" alt="mustafakamber" /></p>
   
-  <p align="right"> <a href="https://twitter.com/mustkamber" target="blank"><img src="https://img.shields.io/twitter/follow/mustkamber?logo=twitter&style=for-the-badge" alt="mustkamber" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
