@@ -4,11 +4,11 @@
 
 <h1 align="center">👋  Herzlich Willkommen!  👋 
   I'm Mustafa :) </h1>
-<h3 align="center">Android Kotlin Developer & UI Design Student from Trabzon/Turkey</h3>
+<h3 align="center">Android Kotlin Developer & UI Design Student from Turkey</h3>
 
 - 🔭 I’m currently student **at Inonu University**
 
-- 🌱 I’m currently learning **Java & Kotlin for Android Development & UI Design**
+- 🌱 I’m currently learning **Java & Kotlin for Android Development**
 
 - 💬 Ask me about **Android,Java,Kotlin**
 
