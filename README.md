@@ -40,6 +40,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&theme=merko" alt="mustafakamber" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&theme=gruvbox" alt="mustafakamber" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakamber&show_icons=true&locale=en" alt="mustafakamber" /></p>
