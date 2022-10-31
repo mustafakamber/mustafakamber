@@ -27,4 +27,4 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakamber&show_icons=true&locale=en" alt="mustafakamber" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
+<p align="top-left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
