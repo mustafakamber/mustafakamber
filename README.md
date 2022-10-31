@@ -1,11 +1,12 @@
 <img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&locale=en&layout=compact" alt="mustafakamber" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
 
 <h1 align="center">👋 WELCOME! 👋 I'M MUSTAFA
   </h1>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&locale=en&layout=compact" alt="mustafakamber" /></p>
 <h3 align="center">Android Kotlin Developer & UI Design Student from Turkey</h3>
 
 - 🔭 I’m currently student **at Inonu University**
