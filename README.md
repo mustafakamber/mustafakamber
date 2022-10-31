@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 WELCOME! 👋 I'M MUSTAFA
   </h1>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&locale=en&layout=compact" alt="mustafakamber" /></p>
+
 <h3 align="center">Android Kotlin Developer & UI Design Student from Turkey</h3>
 
 - 🔭 I’m currently student **at Inonu University**
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mustkmber@gmail.com**
 
-
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&locale=en&layout=compact" alt="mustafakamber" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
