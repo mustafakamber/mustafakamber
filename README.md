@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 
-<h1 align="center">👋 WELCOME! 👋 I'm MUSTAFA
+<h1 align="center">👋 WELCOME! 👋 I'm Mustafa
   </h1>
 
 <h3 align="center">Android Developer from Turkey</h3>
