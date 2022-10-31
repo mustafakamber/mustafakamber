@@ -17,9 +17,6 @@
 
 - 📫 How to reach me **mustkmber@gmail.com**
 
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakamber&show_icons=true&locale=en&layout=compact" alt="mustafakamber" /></p>
-  
-  
 
 
 <h3 align="left">Connect with me:</h3>
