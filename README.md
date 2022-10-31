@@ -28,8 +28,7 @@
 <a href="https://www.hackerrank.com/mustkmber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustkmber" height="30" width="40" /></a>
 </p>
 
-<img src="![google-logo-png-suite-everything-you-need-know-about-google-newest-0](https://user-images.githubusercontent.com/107323058/199081211-f3f0c6ee-2305-467d-bca8-9d76b2682107.png)
-" align="right" width="250" height="250">
+<img src="https://www.freepnglogos.com/images/google-logo-9825.html" align="right" width="250" height="250">
 
 
 <h3 align="left">Languages and Tools:</h3>
