@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="500" height="500">
+<img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="350" height="350">
 
 
 <h1 align="center">👋 Herzlich Willkommen! 👋, Ich bin Mustafa  :)</h1>
