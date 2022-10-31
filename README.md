@@ -9,7 +9,7 @@
 <h1 align="center">👋 WELCOME! 👋 I'm MUSTAFA
   </h1>
 
-<h3 align="center">Android Kotlin Developer & UI Design Student from Turkey</h3>
+<h3 align="center">Android Kotlin Developer from Turkey</h3>
 
 - 🔭 I’m currently student  **CENG at Inonu University**
 
