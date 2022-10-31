@@ -1,4 +1,4 @@
-<h1 align="center">👋 Herzlich Willkommen! 👋, Ich bin Mustafa Kamber :)</h1>
+<h1 align="center">👋 Herzlich Willkommen! 👋, Ich bin Mustafa :)</h1>
 <h3 align="center">Android Kotlin Developer,UI Design Student from Trabzon/Turkey</h3>
 
 - 🔭 I’m currently student **at Inonu University**
