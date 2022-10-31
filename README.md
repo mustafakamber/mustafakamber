@@ -17,11 +17,7 @@
 <a href="https://www.hackerrank.com/mustkmber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustkmber" height="30" width="40" /></a>
 </p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-![giphy](https://user-images.githubusercontent.com/107323058/199062095-95b0527f-ef8b-4f58-bed5-abb7e5972a77.gif)
 
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
