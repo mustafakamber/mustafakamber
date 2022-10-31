@@ -30,6 +30,7 @@
 </p>
 
 
+<img src="http://pf.gy/e98384" align="right" width="300" height="300">
 
 
 <h3 align="left">Languages and Tools:</h3>
