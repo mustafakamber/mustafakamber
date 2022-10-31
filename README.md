@@ -28,7 +28,7 @@
 <a href="https://www.hackerrank.com/mustkmber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustkmber" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" align="right" width="150" height="250">
+<img src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" align="right" width="200" height="400">
 
 
 <h3 align="left">Languages and Tools:</h3>
