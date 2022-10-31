@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
 
 <h1 align="center">👋 Herzlich Willkommen! 👋, Ich bin Mustafa  :)</h1>
 <h3 align="center">Android Kotlin Developer & UI Design Student from Trabzon/Turkey</h3>
@@ -27,4 +28,4 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakamber&show_icons=true&locale=en" alt="mustafakamber" /></p>
 
-<p align="top-left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
+
