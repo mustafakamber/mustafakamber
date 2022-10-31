@@ -28,7 +28,7 @@
 <a href="https://www.hackerrank.com/mustkmber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustkmber" height="30" width="40" /></a>
 </p>
 
-<img src="<a href="https://www.freepnglogos.com/pics/google-logo">Google Logo from freepnglogos.com</a>" align="right" width="250" height="250">
+<img src="https://www.freepnglogos.com/pics/google-logo" align="right" width="250" height="250">
 
 
 <h3 align="left">Languages and Tools:</h3>
