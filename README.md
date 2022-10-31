@@ -9,7 +9,7 @@
 
 <h3 align="center">Android Kotlin Developer & UI Design Student from Turkey</h3>
 
-- 🔭 I’m currently student ** CENG at Inonu University**
+- 🔭 I’m currently student  CENG at Inonu University
 
 - 🌱 I’m currently learning **Java & Kotlin for Android Development**
 
