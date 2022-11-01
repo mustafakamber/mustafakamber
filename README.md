@@ -1,8 +1,13 @@
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>
 
 <img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 
-<img src="https://i.pinimg.com/originals/65/c1/a1/65c1a1012e53383412855783ac175111.gif" align="center" width="200" height="50">
+<h1 align="center">👋 WELCOME! 👋 I'm Mustafa
+  </h1>
 
 <h3 align="center">Android Developer from Turkey</h3>
 
@@ -27,7 +32,6 @@
   <a href="https://discord.gg/#6640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6640" height="30" width="40" /></a>
 </p>
 
-<img src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif" align="right" width="200" height="0">
 
 
 <h3 align="left">Languages and Tools:</h3>
