@@ -32,7 +32,6 @@
   <a href="https://discord.gg/#6640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6640" height="30" width="40" /></a>
 </p>
 
-<img src="https://www.photofunky.net/output/image/e/9/8/3/e98384/photofunky.gif" align="right" width="320" height="480">
 
 
 <h3 align="left">Languages and Tools:</h3>
