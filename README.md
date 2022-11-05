@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 
 
-<p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="75"> </p>
+<p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
 
 <h3 align="center">I'm Mustafa! Android Developer from Turkey</h3>
 
