@@ -7,6 +7,8 @@
 
 <h3 align="center">I'm Mustafa! Android Developer from Turkey</h3>
 
+<h3 align="left">About me:</h3>
+
 - 🔭 I’m currently student  **CENG at Inonu University**
 
 - 🌱 I’m currently learning **Java & Kotlin for Android Development and UI & UX Desing**
