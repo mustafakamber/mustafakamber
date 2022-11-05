@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **mustkmber@gmail.com**
 
+- ⚡ Fun fact **Hang out with my friends & play FIFA ⚽️**
 
 
 
