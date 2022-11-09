@@ -8,7 +8,7 @@
 <p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
 ---->
 
-<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="600" height="300"> </p>
+<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="500" height="300"> </p>
 
 
 <!-- Context -->
