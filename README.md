@@ -11,7 +11,7 @@
 <p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
 ---->
 
-<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="543" height="300"> <img src="https://steamuserimages-a.akamaihd.net/ugc/833574763955098954/0D892270429948A25B0000E0F657575BAFAD01FE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right" width="300" height="300">
+<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="541" height="300"> <img src="https://steamuserimages-a.akamaihd.net/ugc/833574763955098954/0D892270429948A25B0000E0F657575BAFAD01FE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right" width="300" height="300">
 </p>
 
 
