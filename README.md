@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>   -->
 
 <!-- Jake Peralta Gif -->
-<p  align="right"><img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" width="300" height="300"></p>
+<p  align="center "><img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" width="300" height="300" align= "center" ></p>
 
 <!-- Welcome Gif --
 <p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
