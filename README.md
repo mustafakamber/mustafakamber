@@ -13,7 +13,7 @@
 
 
 <!-- Context -->
-<h3 align="left">Hi! I'm Mustafa, Android Developer from Turkey</h3>
+<h1 align="left">Hi! I'm Mustafa, Android Developer from Turkey</h1>
 
 <!-- About me: -->
 <h3 align="left">About me:</h3>
