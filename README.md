@@ -1,14 +1,17 @@
 <!-- Profile Views 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakamber&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakamber" /> </p>   -->
 
+<!--- Jake Peralta 
+<img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 
+-->
 
 
 <!-- Welcome Gif --
 <p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
 ---->
 
-<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="546" height="300"> <img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
+<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="546" height="300"> <img src="https://steamuserimages-a.akamaihd.net/ugc/833574763955098954/0D892270429948A25B0000E0F657575BAFAD01FE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right" width="300" height="300">
 </p>
 
 
