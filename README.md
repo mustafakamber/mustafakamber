@@ -16,7 +16,7 @@
 
 
 <!-- Context -->
-<h1 align="left">Hi! I'm Mustafa, Android Developer from Turkey</h1>
+<h1 align="left">Hi! I'm Mustafa,Native Junior Android Developer from Turkey</h1>
 
 <!-- About me: -->
 <h3 align="left">About me:</h3>
