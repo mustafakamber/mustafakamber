@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Android,Java,Kotlin**
 
-- 📫  **[![Gmail Badge](https://img.shields.io/badge/mustkmber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mustkmber@gmail.com)](mailto:mustkmber@gmail.com)**
+- 📫 How to reach me **[![Gmail Badge](https://img.shields.io/badge/mustkmber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mustkmber@gmail.com)](mailto:mustkmber@gmail.com)**
 
 
 - ⚡ Fun fact **Hang out with my friends & play FIFA ⚽️**
