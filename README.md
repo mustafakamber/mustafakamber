@@ -27,15 +27,13 @@
 
 - 💬 Ask me about **Android,Java,Kotlin**
 
-- 📫 How to reach me **[![Gmail Badge](https://img.shields.io/badge/mustkmber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mustkmber@gmail.com)](mailto:mustkmber@gmail.com)**
-
-
 - ⚡ Fun fact **Hang out with my friends & play FIFA ⚽️**
 
 
 
 <!-- Connect with me: -->
 <h3 align="left">Connect with me:</h3>
+[![Gmail Badge](https://img.shields.io/badge/mustkmber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mustkmber@gmail.com)](mailto:mustkmber@gmail.com)</a>
 <p align="left">
 <a href="https://twitter.com/mustkamber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustkamber" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafa-kamber-046819230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-kamber-046819230/" height="30" width="40" /></a>
