@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently student  **CENG at Inonu University**
 
-- 🌱 I’m currently learning **Java & Kotlin for Android Development and UI & UX Desing**
+- 🌱 I’m currently learning **Kotlin for Android Development and UI & UX Desing**
 
 - 💬 Ask me about **Android,Java,Kotlin**
 
