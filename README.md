@@ -18,7 +18,7 @@
 <!-- Context -->
 <h1 align="left">Hi! I'm Mustafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" height="27px"> </h1>
 
-<h2 align="left">Android Developer from Turkey</h2>
+<h3 align="left">Android Developer from Turkey</h3>
 
 <!-- About me: -->
 <h3 align="left">About me:</h3>
