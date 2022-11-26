@@ -10,8 +10,7 @@
 <!-- Welcome Gif --
 <p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
 ---->
-
-<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="546" height="300"><img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
+<p align="left"> <img src="https://raw.githubusercontent.com/linuxkerem/linuxkerem/main/images/myLifeLoop.gif"  width="546" height="300"><img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 </p>
 
 
@@ -42,7 +41,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/mustkmber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mustkmber@gmail.com)](mailto:mustkmber@gmail.com)</a>
 <p align="left">
-<a href="https://twitter.com/mustkamber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustkamber" height="30" width="40" /></a>
+<a href="https://twitter.com/mustkamber" target="blank7"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustkamber" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafa-kamber-046819230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-kamber-046819230/" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafa.kamberr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa.kamberr" height="30" width="40" /></a>
   <a href="https://discord.gg/#6640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6640" height="30" width="40" /></a>
