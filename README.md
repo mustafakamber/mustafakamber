@@ -10,7 +10,7 @@
 <!-- Welcome Gif --
 <p align="center"> <img  src="https://optimize.webmavens.in/?key=1949128684&url=https://prodimages.neon-light.net/350/nl-l201902-welcome-w-smiley-face-animated-led-sign.gif"  width="300" height="100"> </p>
 ---->
-<p align="left"> <img src="https://raw.githubusercontent.com/linuxkerem/linuxkerem/main/images/myLifeLoop.gif"  width="546" height="300"><img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
+<p align="left"> <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif"  width="546" height="300"><img src="https://media.giphy.com/media/llAxFwbxRvv2ZmneQG/giphy.gif" align="right" width="300" height="300">
 </p>
 
 
